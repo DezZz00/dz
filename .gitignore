@@ -1,0 +1,7 @@
+*.exe *.exe~ *.dll *.so *.dylib *.test *.out
+/bin/
+.vscode/ .idea/ *.swp
+.DS_Store
+/cover.out
+/vendor/
+go-demo/app-1.exe
